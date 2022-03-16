@@ -1,7 +1,5 @@
-print("PROGRAM PYTHON MENGHITUNG LUAS SEGITIGA")
-
-a = float(input("\nMasukan Alas  : "))
-t = float(input("Masukan Tinggi: "))
+a = float(input("\nAlas : "))
+t = float(input("Tinggi : "))
 
 keliling = a*3
 luas = 0.5*a*t

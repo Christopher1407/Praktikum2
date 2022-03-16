@@ -1,5 +1,3 @@
-print("Volume Prism Triangle")
-
 tinggi_prisma = float(input("Tiggi:"))
 alas_segitiga = float(input("alas:"))
 tinggi_segitiga = float(input("tinggi segitga:"))

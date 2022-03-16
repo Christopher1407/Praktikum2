@@ -1,7 +1,6 @@
-print('Program menghitung luas, volume, dan keliling balok')
-p = float(input('masukan panjang balok: '))
-l = float(input('masukan lebar balok: '))
-t = float(input('masukan tinggi balok: '))
+p = float(input('panjang : '))
+l = float(input('lebar : '))
+t = float(input('tinggi : '))
  
 def volume(p,l,t):
     V = p * l * t

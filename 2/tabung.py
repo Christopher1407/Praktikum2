@@ -1,5 +1,5 @@
-a = float(input("Masukkan Jari-jari : "))
-b = float(input("Masukkan Tinggi : : "))
+a = float(input("Jari-jari : "))
+b = float(input("Masukkan Tinggi : "))
  
 c=22/7
  

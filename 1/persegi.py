@@ -1,5 +1,3 @@
-print("MENGHITUNG LUAS & KELILING PERSEGI")
-
 s = float(input("\nMasukan Panjang Sisi: "))
 
 luas = s**2
